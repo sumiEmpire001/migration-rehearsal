@@ -1,0 +1,1 @@
+{"operations":[{"action":"add_column","table":"users","column":"display_name","type":"TEXT"},{"action":"rename_column","table":"users","from":"username","to":"login_name"}]}
